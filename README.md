@@ -12,6 +12,9 @@
   <img src="https://img.shields.io/badge/tech-Seaborn-%23A3C3D9.svg" alt="Seaborn Badge"/>
   <img src="https://img.shields.io/github/stars/arshc0der/Wind_Power_Generation_Forecasting?style=social" alt="Stars Badge"/>
   <img src="https://img.shields.io/github/forks/arshc0der/Wind_Power_Generation_Forecasting?style=social" alt="Forks Badge"/>
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-brightgreen.svg" alt="Open Source Badge"/>
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License Badge"/>
+  <img src="https://img.shields.io/badge/Repo-GitHub-%23181717.svg" alt="GitHub Repo Badge"/>
 </p>
 
 [![Last Commit](https://img.shields.io/github/last-commit/arshc0der/Wind_Power_Generation_Forecasting)](https://github.com/arshc0der/Wind_Power_Generation_Forecasting/commits/main)
