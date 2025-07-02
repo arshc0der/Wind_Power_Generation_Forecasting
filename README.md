@@ -1,4 +1,20 @@
-# 🌬️⚡ Wind Power Generation Forecasting  
+
+# 🌬️⚡ **Wind Power Generation Forecasting**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/status-Beta-yellow.svg" alt="Status Badge"/>
+  <img src="https://img.shields.io/github/license/arshc0der/Wind_Power_Generation_Forecasting?color=green" alt="License Badge"/>
+  <img src="https://img.shields.io/badge/platform-Python-%233776AB.svg" alt="Platform Badge"/>
+  <img src="https://img.shields.io/badge/ML-Scikit--Learn-%23013243.svg" alt="ML Badge"/>
+  <img src="https://img.shields.io/badge/tech-NumPy-%23013243.svg" alt="NumPy Badge"/>
+  <img src="https://img.shields.io/badge/tech-Pandas-%23150458.svg" alt="Pandas Badge"/>
+  <img src="https://img.shields.io/badge/tech-Matplotlib-%23E91E63.svg" alt="Matplotlib Badge"/>
+  <img src="https://img.shields.io/badge/tech-Seaborn-%23A3C3D9.svg" alt="Seaborn Badge"/>
+  <img src="https://img.shields.io/github/stars/arshc0der/Wind_Power_Generation_Forecasting?style=social" alt="Stars Badge"/>
+  <img src="https://img.shields.io/github/forks/arshc0der/Wind_Power_Generation_Forecasting?style=social" alt="Forks Badge"/>
+</p>
+
+[![Last Commit](https://img.shields.io/github/last-commit/arshc0der/Wind_Power_Generation_Forecasting)](https://github.com/arshc0der/Wind_Power_Generation_Forecasting/commits/main)
 
 ## 📌 Overview  
 This project focuses on forecasting wind power generation using data analysis and machine learning techniques. The notebook explores various predictive models to estimate wind power output based on historical data, weather conditions, and other relevant parameters.  
